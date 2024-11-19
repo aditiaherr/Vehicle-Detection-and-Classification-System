@@ -20,8 +20,9 @@ The dataset used for training contains various vehicle images with labeled annot
 
 Here are some screenshots from the project:
 
-- ![Result 4](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/Results%202%20.png)
-- ![Result 6](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/Results%20%20(1).png ) 
+![Result 4](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/Results%202%20.png)
+
+ ![Result 6](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/Results%20%20(1).png ) 
 
 ## Chapter 1: Introduction
 
