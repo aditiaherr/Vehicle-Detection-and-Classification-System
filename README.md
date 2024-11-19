@@ -20,8 +20,8 @@ The dataset used for training contains various vehicle images with labeled annot
 
 Here are some screenshots from the project:
 
-- ![Result 4](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/result_4.jpeg)
-- ![Result 6](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/result_6.jpeg)
+- ![Result 4](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/Results%202%20.png)
+- ![Result 6](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/Results%20%20(1).png ) 
 
 ## Chapter 1: Introduction
 
@@ -93,12 +93,6 @@ The dataset consists of images of various vehicles, including cars, trucks, buse
 
 The YOLOv5 architecture is employed for real-time vehicle detection. YOLOv5's efficiency and accuracy make it suitable for real-time applications. The system also utilizes a CNN for vehicle classification, which is trained using transfer learning from a pre-trained model to improve the model's generalization capabilities.
 
-## Chapter 4: Results
-
-### Screenshots
-
-- ![Result 4](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/result_4.jpeg)
-- ![Result 6](https://github.com/aditiaherr/Vehicle-Detection-and-Classification-System/blob/main/result_6.jpeg)
 
 
 ## Chapter 5: Conclusion
